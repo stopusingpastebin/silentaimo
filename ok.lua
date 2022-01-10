@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/peopletalk2467/main/whysomeanbro"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/stopusingpastebin/kokokokokoko/main/bruh.lua"))()
 Aiming.TeamCheck(false) 
 -- // Services
 local Workspace = game:GetService("Workspace")
