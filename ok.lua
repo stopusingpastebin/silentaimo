@@ -12,7 +12,7 @@ local Mouse = LocalPlayer:GetMouse()
 local CurrentCamera = Workspace.CurrentCamera
 local DaHoodSettings = {
     SilentAim = true,
-    Prediction = 0.155,
+    Prediction = 0.037,
 
 }
 getgenv().DaHoodSettings = DaHoodSettings
